@@ -3,9 +3,7 @@
 # WhisCall
 A framework for AI WhatsApp calls using Whisper, Coqui TTS, GPT-3.5 Turbo, Virtual Audio Cable, and the WhatsApp Desktop App.
 
-
-
-
+https://github.com/skshadan/WhisCall/assets/118248053/e882d09b-c058-4f61-b6d9-626839205595
 
 ## Tools used in this framework
 - Whisper (Speech to Text)
